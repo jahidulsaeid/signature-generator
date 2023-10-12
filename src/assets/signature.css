@@ -1,0 +1,503 @@
+@font-face {
+  font-family: adoretta;
+  src: url(./fonts/adoretta/AdorettaDemo.otf);
+}
+
+@font-face {
+  font-family: adusian_signature;
+  src: url(./fonts/adusian_signature/AdusianSignature.ttf);
+}
+
+@font-face {
+  font-family: alista_blair;
+  src: url(./fonts/alista_blair/AlistaBlair-Regular.otf);
+}
+
+@font-face {
+  font-family: american_signature;
+  src: url(./fonts/american_signature/AmericanSignature.ttf);
+}
+
+@font-face {
+  font-family: amigos;
+  src: url(./fonts/amigos/Amigos.ttf);
+}
+
+@font-face {
+  font-family: ampunsuhu;
+  src: url(./fonts/ampunsuhu/Ampunsuhu.otf);
+}
+
+@font-face {
+  font-family: arington;
+  src: url(./fonts/arington/Arington.ttf);
+}
+
+@font-face {
+  font-family: ballonest;
+  src: url(./fonts/ballonest/Ballonest.ttf);
+}
+
+@font-face {
+  font-family: banteng_story;
+  src: url(./fonts/banteng_story/BantengStory.otf);
+}
+
+@font-face {
+  font-family: bastliga;
+  src: url(./fonts/bastliga/Bastliga.ttf);
+}
+
+@font-face {
+  font-family: bhasline;
+  src: url(./fonts/bhasline/Bhasline.otf);
+}
+
+@font-face {
+  font-family: billie_signature;
+  src: url(./fonts/billie_signature/BillieSignature.ttf);
+}
+
+@font-face {
+  font-family: bilya_signature;
+  src: url(./fonts/bilya_signature/BilyaSignature.ttf);
+}
+
+@font-face {
+  font-family: bisqootte;
+  src: url(./fonts/bisqootte/BisqootteRegular.otf);
+}
+
+@font-face {
+  font-family: bitter_signature;
+  src: url(./fonts/bitter_signature/BitterSignature.ttf);
+}
+
+@font-face {
+  font-family: bottuckey;
+  src: url(./fonts/bottuckey/Bottuckey.ttf);
+}
+
+@font-face {
+  font-family: brastagi;
+  src: url(./fonts/brastagi/Brastagi.otf);
+}
+
+@font-face {
+  font-family: brittney_signature;
+  src: url(./fonts/brittney_signature/BrittneySignature.ttf);
+}
+
+@font-face {
+  font-family: brook_holmes;
+  src: url(./fonts/brook_holmes/BrookHolmes.otf);
+}
+
+@font-face {
+  font-family: browellay_synthya;
+  src: url(./fonts/browellay_synthya/BrowellaySynthya.ttf);
+}
+
+@font-face {
+  font-family: cafe_de_paris-sans;
+  src: url(./fonts/cafe_de_paris/CafeDeParisSans.ttf);
+}
+
+@font-face {
+  font-family: cafe_de_paris-script;
+  src: url(./fonts/cafe_de_paris/CafedeparisScript.ttf);
+}
+
+@font-face {
+  font-family: camellia_signature;
+  src: url(./fonts/camellia_signature/CamelliaSignature.ttf);
+}
+
+@font-face {
+  font-family: carolina;
+  src: url(./fonts/carolina/Carolina.ttf);
+}
+
+@font-face {
+  font-family: cristy;
+  src: url(./fonts/cristy/Cristy.ttf);
+}
+
+@font-face {
+  font-family: getting_everything;
+  src: url(./fonts/getting_everything/GettingEverything.ttf);
+}
+
+@font-face {
+  font-family: handcaster;
+  src: url(./fonts/handcaster/Handcaster.ttf);
+}
+
+@font-face {
+  font-family: handsome_boys;
+  src: url(./fonts/handsome_boys/HandsomeBoys.ttf);
+}
+
+@font-face {
+  font-family: hayollan;
+  src: url(./fonts/hayollan/HayollanRegular.ttf);
+}
+
+@font-face {
+  font-family: hello_bosnia-serif;
+  src: url(./fonts/hello_bosnia/HelloBosniaSerif.ttf);
+}
+
+@font-face {
+  font-family: hello_bosnia-script;
+  src: url(./fonts/hello_bosnia/HelloBoniaScript.ttf);
+}
+
+@font-face {
+  font-family: histopher;
+  src: url(./fonts/histopher/Histopher.ttf);
+}
+
+@font-face {
+  font-family: jalliya;
+  src: url(./fonts/jalliya/Jalliya.ttf);
+}
+
+@font-face {
+  font-family: lovely_tropical;
+  src: url(./fonts/lovely_tropical/lovelytropical.ttf);
+}
+
+@font-face {
+  font-family: magnificent_signature;
+  src: url(./fonts/magnificent_signature/MagnificentSignature.ttf);
+}
+
+@font-face {
+  font-family: manhattan_signature;
+  src: url(./fonts/manhattan_signature/ManhattanSignature.ttf);
+}
+
+@font-face {
+  font-family: margita_signature;
+  src: url(./fonts/margita_signature/MargitaSignature.ttf);
+}
+
+@font-face {
+  font-family: metagraph;
+  src: url(./fonts/metagraph/Metagraph.ttf);
+}
+
+@font-face {
+  font-family: milyah;
+  src: url(./fonts/milyah/MilyahRegular.ttf);
+}
+
+@font-face {
+  font-family: mixed_feelings;
+  src: url(./fonts/mixed_feelings/mixedfeelings.ttf);
+}
+
+@font-face {
+  font-family: moonlight_paradise;
+  src: url(./fonts/moonlight_paradise/MoonlightParadise.ttf);
+}
+
+@font-face {
+  font-family: omed_brush;
+  src: url(./fonts/omed_brush/OmedBrushRegular.ttf);
+}
+
+@font-face {
+  font-family: peaches_blessed-serif;
+  src: url(./fonts/peaches_blessed/PeachesBlessedSerif.ttf);
+}
+
+@font-face {
+  font-family: peaches_blessed-script;
+  src: url(./fonts/peaches_blessed/PeachesBlessedScript.ttf);
+}
+
+@font-face {
+  font-family: pointone;
+  src: url(./fonts/pointone/Pointone.ttf);
+}
+
+@font-face {
+  font-family: radinela-sans;
+  src: url(./fonts/radinela/RadinelaSans.ttf);
+}
+
+@font-face {
+  font-family: radinela-script;
+  src: url(./fonts/radinela/RadinelaScript.ttf);
+}
+
+@font-face {
+  font-family: rusticglam;
+  src: url(./fonts/rusticglam/Rusticglam.ttf);
+}
+
+@font-face {
+  font-family: satisfaction;
+  src: url(./fonts/satisfaction/Satisfaction.ttf);
+}
+
+@font-face {
+  font-family: sheila_king;
+  src: url(./fonts/sheila_king/Sheilakingdemo.ttf);
+}
+
+@font-face {
+  font-family: something_different;
+  src: url(./fonts/something_different/SomethingDifferent.ttf);
+}
+
+@font-face {
+  font-family: tanda_tangan;
+  src: url(./fonts/tanda_tangan/TandaTangan.ttf);
+}
+
+@font-face {
+  font-family: testimonia;
+  src: url(./fonts/testimonia/Testimonia.ttf);
+}
+
+@font-face {
+  font-family: thesignature;
+  src: url(./fonts/thesignature/Thesignature.ttf);
+}
+
+@font-face {
+  font-family: travel_november;
+  src: url(./fonts/travel_november/TravelNovember.ttf);
+}
+
+@font-face {
+  font-family: wellyon;
+  src: url(./fonts/wellyon/WellyonRegular.ttf);
+}
+
+.adoretta {
+  font-family: adoretta;
+}
+
+.adusian_signature {
+  font-family: adusian_signature;
+}
+
+.alista_blair {
+  font-family: alista_blair;
+}
+
+.american_signature {
+  font-family: american_signature;
+}
+
+.amigos {
+  font-family: amigos;
+}
+
+.ampunsuhu {
+  font-family: ampunsuhu;
+}
+
+.arington {
+  font-family: arington;
+}
+
+.ballonest {
+  font-family: ballonest;
+}
+
+.banteng_story {
+  font-family: banteng_story;
+}
+
+.bastliga {
+  font-family: bastliga;
+}
+
+.bhasline {
+  font-family: bhasline;
+}
+
+.billie_signature {
+  font-family: billie_signature;
+}
+
+.bilya_signature {
+  font-family: bilya_signature;
+}
+
+.bisqootte {
+  font-family: bisqootte;
+}
+
+.bitter_signature {
+  font-family: bitter_signature;
+}
+
+.bottuckey {
+  font-family: bottuckey;
+}
+
+.brastagi {
+  font-family: brastagi;
+}
+
+.brittney_signature {
+  font-family: brittney_signature;
+}
+
+.brook_holmes {
+  font-family: brook_holmes;
+}
+
+.browellay_synthya {
+  font-family: browellay_synthya;
+}
+
+.cafe_de_paris-sans {
+  font-family: cafe_de_paris-sans;
+}
+
+.cafe_de_paris-script {
+  font-family: cafe_de_paris-script;
+}
+
+.camellia_signature {
+  font-family: camellia_signature;
+}
+
+.carolina {
+  font-family: carolina;
+}
+
+.cristy {
+  font-family: cristy;
+}
+
+.getting_everything {
+  font-family: getting_everything;
+}
+
+.handcaster {
+  font-family: handcaster;
+}
+
+.handsome_boys {
+  font-family: handsome_boys;
+}
+
+.hayollan {
+  font-family: hayollan;
+}
+
+.hello_bosnia-serif {
+  font-family: hello_bosnia-serif;
+}
+
+.hello_bosnia-script {
+  font-family: hello_bosnia-script;
+}
+
+.histopher {
+  font-family: histopher;
+}
+
+.jalliya {
+  font-family: jalliya;
+}
+
+.lovely_tropical {
+  font-family: lovely_tropical;
+}
+
+.magnificent_signature {
+  font-family: magnificent_signature;
+}
+
+.manhattan_signature {
+  font-family: manhattan_signature;
+}
+
+.margita_signature {
+  font-family: margita_signature;
+}
+
+.metagraph {
+  font-family: metagraph;
+}
+
+.milyah {
+  font-family: milyah;
+}
+
+.mixed_feelings {
+  font-family: mixed_feelings;
+}
+
+.moonlight_paradise {
+  font-family: moonlight_paradise;
+}
+
+.omed_brush {
+  font-family: omed_brush;
+}
+
+.peaches_blessed-serif {
+  font-family: peaches_blessed-serif;
+}
+
+.peaches_blessed-script {
+  font-family: peaches_blessed-script;
+}
+
+.pointone {
+  font-family: pointone;
+}
+
+.radinela-sans {
+  font-family: radinela-sans;
+}
+
+.radinela-script {
+  font-family: radinela-script;
+}
+
+.rusticglam {
+  font-family: rusticglam;
+}
+
+.satisfaction {
+  font-family: satisfaction;
+}
+
+.sheila_king {
+  font-family: sheila_king;
+}
+
+.something_different {
+  font-family: something_different;
+}
+
+.tanda_tangan {
+  font-family: tanda_tangan;
+}
+
+.testimonia {
+  font-family: testimonia;
+}
+
+.thesignature {
+  font-family: thesignature;
+}
+
+.travel_november {
+  font-family: travel_november;
+}
+
+.wellyon {
+  font-family: wellyon;
+}
