@@ -1,9 +1,7 @@
-// import SignaturePad from "react-signature-canvas";
-import ReactSignatureCanvas from "react-signature-canvas";
 import SignatureCanvas from "react-signature-canvas";
 
 export default function CanvasSignature() {
-  let sigPad = null as ReactSignatureCanvas | null;
+  let sigPad = null as SignatureCanvas | null;
 
   return (
     <>
@@ -11,49 +9,48 @@ export default function CanvasSignature() {
         ref={(ref) => {
           sigPad = ref;
         }}
-        canvasProps={{ className: "signature_pad" }}
+        canvasProps={{ width: 800, height: 200, className: "signature_pad" }}
       />
 
-      <button onClick={() => sigPad?.clear()}>Clear</button>
-      <button
-        onClick={() => {
-          if (sigPad) {
-            const data = sigPad.toDataURL();
-            console.log(data);
-          }
-        }}
-      >
-        Save
-      </button>
+      <div className="canvas-button flex gap-5 items-center justify-center my-10">
+        <button
+          className="bg-blue-500 hover:bg-blue-700 py-2 px-5 text-white rounded-full inline-block"
+          onClick={() => sigPad?.clear()}
+        >
+          Clear and Draw Again
+        </button>
 
-      <button
-        onClick={() => {
-          if (sigPad) {
-            const data = sigPad.toDataURL();
+        <button
+          className="bg-blue-500 hover:bg-blue-700 py-2 px-5 text-white rounded-full inline-block"
+          onClick={() => {
+            if (sigPad) {
+              const data = sigPad.toDataURL();
 
-            const link = document.createElement("a");
-            link.download = "signature.png";
-            link.href = data;
-            link.click();
-          }
-        }}
-      >
-        Download
-      </button>
-      <button
-        onClick={() => {
-          if (sigPad) {
-            const data = sigPad.getTrimmedCanvas().toDataURL("image/png");
+              const link = document.createElement("a");
+              link.download = "signature.png";
+              link.href = data;
+              link.click();
+            }
+          }}
+        >
+          Download with Background
+        </button>
+        <button
+          className="bg-blue-500 hover:bg-blue-700 py-2 px-5 text-white rounded-full inline-block"
+          onClick={() => {
+            if (sigPad) {
+              const data = sigPad.getTrimmedCanvas().toDataURL("image/png");
 
-            const link = document.createElement("a");
-            link.download = "signature.png";
-            link.href = data;
-            link.click();
-          }
-        }}
-      >
-        Trim and Download
-      </button>
+              const link = document.createElement("a");
+              link.download = "signature.png";
+              link.href = data;
+              link.click();
+            }
+          }}
+        >
+          Download without Background
+        </button>
+      </div>
     </>
   );
 }

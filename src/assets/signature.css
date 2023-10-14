@@ -1,7 +1,7 @@
-@font-face {
+/* @font-face {
   font-family: adoretta;
   src: url(./fonts/adoretta/AdorettaDemo.otf);
-}
+} */
 
 @font-face {
   font-family: adusian_signature;
@@ -53,10 +53,10 @@
   src: url(./fonts/bhasline/Bhasline.otf);
 }
 
-@font-face {
+/* @font-face {
   font-family: billie_signature;
   src: url(./fonts/billie_signature/BillieSignature.ttf);
-}
+} */
 
 @font-face {
   font-family: bilya_signature;
@@ -68,10 +68,10 @@
   src: url(./fonts/bisqootte/BisqootteRegular.otf);
 }
 
-@font-face {
+/* @font-face {
   font-family: bitter_signature;
   src: url(./fonts/bitter_signature/BitterSignature.ttf);
-}
+} */
 
 @font-face {
   font-family: bottuckey;
@@ -98,20 +98,20 @@
   src: url(./fonts/browellay_synthya/BrowellaySynthya.ttf);
 }
 
-@font-face {
+/* @font-face {
   font-family: cafe_de_paris-sans;
   src: url(./fonts/cafe_de_paris/CafeDeParisSans.ttf);
-}
+} */
 
 @font-face {
   font-family: cafe_de_paris-script;
   src: url(./fonts/cafe_de_paris/CafedeparisScript.ttf);
 }
 
-@font-face {
+/* @font-face {
   font-family: camellia_signature;
   src: url(./fonts/camellia_signature/CamelliaSignature.ttf);
-}
+} */
 
 @font-face {
   font-family: carolina;
@@ -278,9 +278,9 @@
   src: url(./fonts/wellyon/WellyonRegular.ttf);
 }
 
-.adoretta {
+/* .adoretta {
   font-family: adoretta;
-}
+} */
 
 .adusian_signature {
   font-family: adusian_signature;
@@ -322,9 +322,9 @@
   font-family: bhasline;
 }
 
-.billie_signature {
+/* .billie_signature {
   font-family: billie_signature;
-}
+} */
 
 .bilya_signature {
   font-family: bilya_signature;
@@ -334,9 +334,9 @@
   font-family: bisqootte;
 }
 
-.bitter_signature {
+/* .bitter_signature {
   font-family: bitter_signature;
-}
+} */
 
 .bottuckey {
   font-family: bottuckey;
@@ -358,17 +358,17 @@
   font-family: browellay_synthya;
 }
 
-.cafe_de_paris-sans {
+/* .cafe_de_paris-sans {
   font-family: cafe_de_paris-sans;
-}
+} */
 
 .cafe_de_paris-script {
   font-family: cafe_de_paris-script;
 }
 
-.camellia_signature {
+/* .camellia_signature {
   font-family: camellia_signature;
-}
+} */
 
 .carolina {
   font-family: carolina;
